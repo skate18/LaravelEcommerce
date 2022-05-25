@@ -4,5 +4,7 @@
 ## About
 A complete E-commerce website built with Laravel 8, Bootstrap, and jQuery
 
+<br/>
 
+## Screenshots
 ![Screenshot](screenshot.png)

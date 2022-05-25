@@ -94,7 +94,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -115,7 +115,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -135,7 +135,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -156,7 +156,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -178,7 +178,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -199,7 +199,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -219,7 +219,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -240,7 +240,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -262,7 +262,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -283,7 +283,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -303,7 +303,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -324,7 +324,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -352,7 +352,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -373,7 +373,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -393,7 +393,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -414,7 +414,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -436,7 +436,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/10.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -457,7 +457,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -477,7 +477,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -498,7 +498,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -520,7 +520,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/8.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -541,7 +541,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -561,7 +561,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -582,7 +582,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -610,7 +610,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -631,7 +631,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -651,7 +651,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -672,7 +672,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -694,7 +694,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -715,7 +715,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -735,7 +735,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -756,7 +756,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -778,7 +778,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -799,7 +799,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -819,7 +819,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/12.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -840,7 +840,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -922,7 +922,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/1.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -943,7 +943,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -963,7 +963,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/2.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -984,7 +984,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1006,7 +1006,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1027,7 +1027,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -1047,7 +1047,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/4.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1068,7 +1068,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1090,7 +1090,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1111,7 +1111,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -1131,7 +1131,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/6.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1152,7 +1152,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1200,7 +1200,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1221,7 +1221,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -1241,7 +1241,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1262,7 +1262,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1284,7 +1284,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1305,7 +1305,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -1325,7 +1325,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1346,7 +1346,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1368,7 +1368,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1389,7 +1389,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -1409,7 +1409,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -1430,7 +1430,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -1508,7 +1508,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/2.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1529,7 +1529,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1549,7 +1549,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/4.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1570,7 +1570,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -1592,7 +1592,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/6.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1613,7 +1613,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1633,7 +1633,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/8.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1654,7 +1654,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -1676,7 +1676,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/10.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1697,7 +1697,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1717,7 +1717,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/12.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1738,7 +1738,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -1766,7 +1766,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1787,7 +1787,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1807,7 +1807,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1828,7 +1828,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -1850,7 +1850,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1871,7 +1871,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1891,7 +1891,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1912,7 +1912,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -1934,7 +1934,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1955,7 +1955,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -1975,7 +1975,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -1996,7 +1996,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -2024,7 +2024,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2045,7 +2045,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -2065,7 +2065,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2086,7 +2086,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -2108,7 +2108,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2129,7 +2129,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -2149,7 +2149,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/1.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2170,7 +2170,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -2192,7 +2192,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2213,7 +2213,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price">$46.80</span>
                                                             </div>
@@ -2233,7 +2233,7 @@
                                                 <!-- single-product-wrap start -->
                                                 <div class="single-product-wrap">
                                                     <div class="product-image">
-                                                        <a href="single-product.html">
+                                                        <a href="{{url("/products/1")}}">
                                                             <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                         </a>
                                                         <span class="sticker">New</span>
@@ -2254,7 +2254,7 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                            <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                             <div class="price-box">
                                                                 <span class="new-price new-price-2">$71.80</span>
                                                                 <span class="old-price">$77.22</span>
@@ -2300,7 +2300,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/11.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2321,7 +2321,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2341,7 +2341,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2362,7 +2362,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -2384,7 +2384,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/9.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2405,7 +2405,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2425,7 +2425,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2446,7 +2446,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
@@ -2468,7 +2468,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/7.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2489,7 +2489,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Accusantium dolorem1</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Accusantium dolorem1</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price">$46.80</span>
                                                     </div>
@@ -2509,7 +2509,7 @@
                                         <!-- single-product-wrap start -->
                                         <div class="single-product-wrap">
                                             <div class="product-image">
-                                                <a href="single-product.html">
+                                                <a href="{{url("/products/1")}}">
                                                     <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
                                                 </a>
                                                 <span class="sticker">New</span>
@@ -2530,7 +2530,7 @@
                                                             </ul>
                                                         </div>
                                                     </div>
-                                                    <h4><a class="product_name" href="single-product.html">Mug Today is a good day</a></h4>
+                                                    <h4><a class="product_name" href="{{url("/products/1")}}">Mug Today is a good day</a></h4>
                                                     <div class="price-box">
                                                         <span class="new-price new-price-2">$71.80</span>
                                                         <span class="old-price">$77.22</span>
