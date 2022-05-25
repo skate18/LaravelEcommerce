@@ -2,7 +2,7 @@
 
 
 ## About
-A complete E-commerce website built with Laravel 8, Bootstrap, and jQuery
+E-commerce website built with Laravel 8, Bootstrap, and jQuery
 
 <br/>
 

@@ -120,7 +120,7 @@
                             <div class="col-lg-3">
                                 <div class="logo pb-sm-30 pb-xs-30">
                                     <a href="{{ url('/') }}">
-                                        <img src="images/menu/logo/1.jpg" alt="">
+                                        <img src="{{ asset('images/menu/logo/1.jpg') }}" alt="">
                                     </a>
                                 </div>
                             </div>
