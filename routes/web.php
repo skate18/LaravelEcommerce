@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,16 +16,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get("/", [HomeController::class, "index"]);
+Route::get('/products/{id}', [ProductController::class, "index"])->whereNumber("id");
+
+
 /* 
 // if we do not user controller
 Route::get('/', function () {
     return view('welcome')
             ->with('products', \App\Models\Product::all());
 });
-*/
-
-
 
 Route::get('/products/{id}', function ($id) {
-    return view('detail');
+    return view('detail')
+    ->with('product', \App\Models\Product::find($id));
 })->whereNumber("id");
+*/

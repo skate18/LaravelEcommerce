@@ -24,32 +24,32 @@
                             <div class="product-details-left">
                                 <div class="product-details-images slider-navigation-1">
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/1.jpg" data-gall="myGallery">
-                                            <img src="{{ asset('images/product/large-size/1.jpg') }}" alt="product image">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/'.$product->id.'.jpg') }}" data-gall="myGallery">
+                                            <img src="{{ asset('images/product/large-size/'.$product->id.'.jpg') }}" alt="product image">
                                         </a>
                                     </div>
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/2.jpg" data-gall="myGallery">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/2.jpg') }}" data-gall="myGallery">
                                             <img src="{{ asset('images/product/large-size/2.jpg') }}" alt="product image">
                                         </a>
                                     </div>
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/3.jpg" data-gall="myGallery">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/3.jpg') }}" data-gall="myGallery">
                                             <img src="{{ asset('images/product/large-size/3.jpg') }}" alt="product image">
                                         </a>
                                     </div>
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/4.jpg" data-gall="myGallery">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/4.jpg') }}" data-gall="myGallery">
                                             <img src="{{ asset('images/product/large-size/4.jpg') }}" alt="product image">
                                         </a>
                                     </div>
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/5.jpg" data-gall="myGallery">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/5.jpg') }}" data-gall="myGallery">
                                             <img src="{{ asset('images/product/large-size/5.jpg') }}" alt="product image">
                                         </a>
                                     </div>
                                     <div class="lg-image">
-                                        <a class="popup-img venobox vbox-item" href="images/product/large-size/6.jpg" data-gall="myGallery">
+                                        <a class="popup-img venobox vbox-item" href="{{ asset('images/product/large-size/6.jpg') }}" data-gall="myGallery">
                                             <img src="{{ asset('images/product/large-size/6.jpg') }}" alt="product image">
                                         </a>
                                     </div>
@@ -69,7 +69,7 @@
                         <div class="col-lg-7 col-md-6">
                             <div class="product-details-view-content pt-60">
                                 <div class="product-info">
-                                    <h2>Today is a good day Framed poster</h2>
+                                    <h2>{{$product->name}}</h2>
                                     <span class="product-details-ref">Reference: demo_15</span>
                                     <div class="rating-box pt-20">
                                         <ul class="rating rating-with-review-item">
@@ -178,7 +178,7 @@
                     <div class="tab-content">
                         <div id="description" class="tab-pane active show" role="tabpanel">
                             <div class="product-description">
-                                <span>The best is yet to come! Give your walls a voice with a framed poster. This aesthethic, optimistic poster will look great in your desk or in an open-space office. Painted wooden frame with passe-partout for more depth.</span>
+                                <span>{{$product->description}}</span>
                             </div>
                         </div>
                         <div id="product-details" class="tab-pane" role="tabpanel">
